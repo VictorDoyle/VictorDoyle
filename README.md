@@ -10,15 +10,15 @@ My life's goal is to promote innovation and to create limitless applications tha
 
 
 ## 🔭 I’m currently working on ...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=twitter&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=twitter&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Here are some of the latest Repos I've Worked On: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=coeus-app&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=coeus-app&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=narrativepage1&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=narrativepage1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=spacegame&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=spacegame&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some More Info About Me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle)](https://github.com/anuraghazra/github-readme-stats)
