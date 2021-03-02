@@ -14,9 +14,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=twitter&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Here are some of the latest Repos I've Worked On: 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=coeus-app&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=coeu-app&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=narrativepage1&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=narratvepage1&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=spacegame&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
