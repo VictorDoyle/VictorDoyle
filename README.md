@@ -8,6 +8,34 @@ My life's goal is to promote innovation and to create limitless applications tha
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### 📋 Tech Stacks & Skills:
+
+Bases:
+![Mac_OS](https://img.shields.io/badge/-Mac_OS-000000?logo=Apple&style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?logo=Git&style=for-the-badge&logoColor=white)
+![Github](https://img.shields.io/badge/-Github-000000?logo=Github&style=for-the-badge&logoColor=white)
+![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
+![Heroku](https://img.shields.io/badge/-heroku-000000?logo=heroku&style=for-the-badge&logoColor=white)
+
+Languages:
+![HTML](https://img.shields.io/badge/-Html-444444?logo=Html5&style=for-the-badge&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-444444?logo=CSS3&style=for-the-badge&logoColor=white)
+![JS](https://img.shields.io/badge/-Javascript-444444?logo=Javascript&style=for-the-badge&logoColor=FFF361)
+![Python](https://img.shields.io/badge/-python-444444?logo=Python&style=for-the-badge&logoColor=white)
+
+Techs: 
+![React.Js](https://img.shields.io/badge/-react-6A6A6A?logo=React&style=for-the-badge&logoColor=8CEBEC)
+![Django](https://img.shields.io/badge/-Django-6A6A6A?logo=Django&style=for-the-badge&logoColor=white)
+![atom](https://img.shields.io/badge/-atom-6A6A6A?logo=Atom&style=for-the-badge&logoColor=black)
+![JQuery](https://img.shields.io/badge/-jquery-6A6A6A?logo=Jquery&style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-mongodb-6A6A6A?logo=Mongodb&style=for-the-badge&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-6A6A6A?logo=Prisma&style=for-the-badge&logoColor=white)
+![Semantic-UI](https://img.shields.io/badge/-semantic%20UI%20-6A6A6A?logo=semantic%20UI%20&style=for-the-badge&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A6A6A?logo=Bootstrap&style=for-the-badge&logoColor=white)
+![PSQL](https://img.shields.io/badge/-PSQL-6A6A6A?logo=PSQL&style=for-the-badge&logoColor=white)
+
+
+
 
 ## 🔭 I’m currently working on ...
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=twitter&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,10 +47,6 @@ My life's goal is to promote innovation and to create limitless applications tha
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=narrativepage1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=spacegame&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📋 Some More Info About Me:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ### ⚡ Fun fact: 
 #### 📚 Currently Reading: 
