@@ -6,7 +6,7 @@ Hi, I'm Victor. I'm a Software Engineer who is passionate about building things.
 
 My life's goal is to promote innovation and to create limitless applications that can truly push the boundaries of our modern conventions. I define myself by the work that I set out to do and the infinite amounts of energy that I have towards reaching that goal. My personality and mental character of wanting to constantly reach for the stars and beyond often reflects in my work and is something that will always be part of me.
 
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&icon_color=#ea0f1e&count_private=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔭 I’m currently working on ...
