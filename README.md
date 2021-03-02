@@ -25,5 +25,11 @@ My life's goal is to promote innovation and to create limitless applications tha
 
 
 ### ⚡ Fun fact: 
+#### Currently Reading: 
+* Garcia Marquez - Cien Años De Soledad 
+* Martin Heidegger - Being and Time
+* John Gribbin - In Search of Schrödinger's Cat
 
-### 👯 I’m looking to collaborate on ...
+
+### 👯 I’m looking to collaborate on Everything!
+I have officially finished the General Assembly Software Engineering Immersive and I'm hungry to code as much as possible and build as many applications, websites, packages, apis as I can! Feel free to contact me or get in touch if you're in need of a coding partner.
