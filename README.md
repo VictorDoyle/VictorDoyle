@@ -20,12 +20,12 @@ My life's goal is to promote innovation and to create limitless applications tha
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=spacegame&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Some More Info About Me:
+### 📋 Some More Info About Me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### ⚡ Fun fact: 
-#### Currently Reading: 
+#### 📚 Currently Reading: 
 * Garcia Marquez - Cien Años De Soledad 
 * Martin Heidegger - Being and Time
 * John Gribbin - In Search of Schrödinger's Cat
