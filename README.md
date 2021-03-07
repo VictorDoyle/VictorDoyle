@@ -1,14 +1,15 @@
-# 👋 Welcome To My Github Profile 
+
+<h1 align="center"> 👋 Welcome To My Github Profile </h1>
 
 Hi, I'm Victor. I'm a Software Engineer who is passionate about building things. I'm known as a jack of all trades with experience in multiple branches of knowledge: Technology, Politics, Sociology, Economics, Literature, Philosophy and many more!
 
-## 😎 About Me 
+<h2 align="center"> 😎 About Me </h2>
 
 My life's goal is to promote innovation and to create limitless applications that can truly push the boundaries of our modern conventions. I define myself by the work that I set out to do and the infinite amounts of energy that I have towards reaching that goal. My personality and mental character of wanting to constantly reach for the stars and beyond often reflects in my work and is something that will always be part of me.
 
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📋 Tech Stacks & Skills:
+<h3 align="center"> 📋 Tech Stacks & Skills: </h3>
 
 Bases:
 ![Mac_OS](https://img.shields.io/badge/-Mac_OS-000000?logo=Apple&style=for-the-badge&logoColor=white)
@@ -37,10 +38,11 @@ Techs:
 
 
 
-## 🔭 I’m currently working on ...
+<h2 align="center"> 🔭 I’m currently working on ... </h2>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=twitter&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 💻 Here are some of the latest Repos I've Worked On: 
+<h3 align="center"> 💻 Here are some of the latest Repos I've Worked On: </h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=coeus-app&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -48,12 +50,15 @@ Techs:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=spacegame&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### ⚡ Fun fact: 
-#### 📚 Currently Reading: 
-* Garcia Marquez - Cien Años De Soledad 
-* Martin Heidegger - Being and Time
-* John Gribbin - In Search of Schrödinger's Cat
+<h3 align="center"> ⚡ Fun fact: </h3>
+<h4 align="center"> 📚 Currently Reading: </h4>
 
+<ul>
+  <li> Garcia Marquez - Cien Años De Soledad </li>
+  <li> Martin Heidegger - Being and Time </li>
+  <li> John Gribbin - In Search of Schrödinger's Cat </li>
+</ul>
 
-### 👯 I’m looking to collaborate on Everything!
-I have officially finished the General Assembly Software Engineering Immersive and I'm hungry to code as much as possible and build as many applications, websites, packages, apis as I can! Feel free to contact me or get in touch if you're in need of a coding partner.
+<h3 align="center"> 👯 I’m looking to collaborate on Everything! </h3>
+
+<p align="center" >I have officially finished the General Assembly Software Engineering Immersive and I'm hungry to code as much as possible and build as many applications, websites, packages, apis as I can! Feel free to contact me or get in touch if you're in need of a coding partner. </p>
