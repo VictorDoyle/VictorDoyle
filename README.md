@@ -26,20 +26,22 @@ Languages:
 ![CSS](https://img.shields.io/badge/-CSS3-444444?logo=CSS3&style=for-the-badge&logoColor=white)
 ![JS](https://img.shields.io/badge/-Javascript-444444?logo=Javascript&style=for-the-badge&logoColor=FFF361)
 ![Python](https://img.shields.io/badge/-python-444444?logo=Python&style=for-the-badge&logoColor=white)
+![EJS](https://img.shields.io/badge/-ejs-444444?logo=EJS&style=for-the-badge&logoColor=mauve)
+![Jinja](https://img.shields.io/badge/-Jinja-444444?logo=Jinja&style=for-the-badge&logoColor=red)
 
 Techs: 
 ![React.Js](https://img.shields.io/badge/-react-6A6A6A?logo=React&style=for-the-badge&logoColor=8CEBEC)
 ![Vue.Js](https://img.shields.io/badge/-Vuejs-6A6A6A?logo=Vuejs&style=for-the-badge&logoColor=8CEBEC)
 ![Django](https://img.shields.io/badge/-Django-6A6A6A?logo=Django&style=for-the-badge&logoColor=blue)
 ![atom](https://img.shields.io/badge/-atom-6A6A6A?logo=Atom&style=for-the-badge&logoColor=black)
-![JQuery](https://img.shields.io/badge/-jquery-6A6A6A?logo=Jquery&style=for-the-badge&logoColor=white)
+![JQuery](https://img.shields.io/badge/-jquery-6A6A6A?logo=Jquery&style=for-the-badge&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-mongodb-6A6A6A?logo=Mongodb&style=for-the-badge&logoColor=green)
 ![Prisma](https://img.shields.io/badge/-Prisma-6A6A6A?logo=Prisma&style=for-the-badge&logoColor=turquoise)
 ![Postman](https://img.shields.io/badge/-Postman-6A6A6A?logo=Postman&style=for-the-badge&logoColor=orange)
-![GraphQL](https://img.shields.io/badge/-GraphQL-6A6A6A?logo=GraphQL&style=for-the-badge&logoColor=white)
-![Semantic-UI](https://img.shields.io/badge/-semantic%20UI%20-6A6A6A?logo=semantic%20UI%20&style=for-the-badge&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A6A6A?logo=Bootstrap&style=for-the-badge&logoColor=white)
-![PSQL](https://img.shields.io/badge/-PSQL-6A6A6A?logo=PSQL&style=for-the-badge&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-6A6A6A?logo=GraphQL&style=for-the-badge&logoColor=pink)
+![Semantic-UI](https://img.shields.io/badge/-semantic%20UI%20-6A6A6A?logo=semantic%20UI%20&style=for-the-badge&logoColor=turquoise)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A6A6A?logo=Bootstrap&style=for-the-badge&logoColor=purple)
+![PSQL](https://img.shields.io/badge/-PSQL-6A6A6A?logo=PSQL&style=for-the-badge&logoColor=navy)
 
 
 
