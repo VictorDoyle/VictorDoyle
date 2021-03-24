@@ -11,6 +11,9 @@ My life's goal is to promote innovation and to create limitless applications tha
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark" />
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&langs_count=10&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <h3 align="center"> 📋 Tech Stacks & Skills: </h3>
 
@@ -49,7 +52,7 @@ Techs:
 <h2 align="center"> 🔭 I’m currently working on ... </h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=twitter&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=Vue-EcommercePlantShop&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=Vue-Ecommerce-Plantshop&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=Swift-MealPlanner&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"> 💻 Here are some of the latest Repos I've Worked On: </h3>
