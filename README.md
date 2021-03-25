@@ -46,10 +46,12 @@ Techs:
 ![GraphQL](https://img.shields.io/badge/-GraphQL-6A6A6A?logo=GraphQL&style=for-the-badge&logoColor=pink)
 ![Semantic-UI](https://img.shields.io/badge/-semantic%20UI%20-6A6A6A?logo=semantic%20UI%20&style=for-the-badge&logoColor=turquoise)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-6A6A6A?logo=Bootstrap&style=for-the-badge&logoColor=purple)
-![PSQL](https://img.shields.io/badge/-PSQL-6A6A6A?logo=PSQL&style=for-the-badge&logoColor=navy)
-
-
-
+![PSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![UE4](https://img.shields.io/badge/unreal%20engine%20-%23313131.svg?&style=for-the-badge&logo=unreal%20engine&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-444444?logo=Blender&style=for-the-badge&logoColor=white)
+![AdobeXD](https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)
+	
 
 <h2 align="center"> 🔭 I’m currently working on ... </h2>
 
