@@ -29,6 +29,7 @@ Languages:
 ![CSS](https://img.shields.io/badge/-CSS3-444444?logo=CSS3&style=for-the-badge&logoColor=white)
 ![JS](https://img.shields.io/badge/-Javascript-444444?logo=Javascript&style=for-the-badge&logoColor=FFF361)
 ![Python](https://img.shields.io/badge/-python-444444?logo=Python&style=for-the-badge&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-444444?logo=Swift&style=for-the-badge&logoColor=orange)
 ![EJS](https://img.shields.io/badge/-ejs-444444?logo=EJS&style=for-the-badge&logoColor=mauve)
 ![Jinja](https://img.shields.io/badge/-Jinja-444444?logo=Jinja&style=for-the-badge&logoColor=red)
 
