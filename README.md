@@ -35,7 +35,8 @@ Languages:
 
 Techs: 
 ![React.Js](https://img.shields.io/badge/-react-6A6A6A?logo=React&style=for-the-badge&logoColor=8CEBEC)
-![Vue.Js](https://img.shields.io/badge/-Vuejs-6A6A6A?logo=Vuejs&style=for-the-badge&logoColor=8CEBEC)
+![Vue.Js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+
 ![Django](https://img.shields.io/badge/-Django-6A6A6A?logo=Django&style=for-the-badge&logoColor=blue)
 ![atom](https://img.shields.io/badge/-atom-6A6A6A?logo=Atom&style=for-the-badge&logoColor=black)
 ![JQuery](https://img.shields.io/badge/-jquery-6A6A6A?logo=Jquery&style=for-the-badge&logoColor=black)
