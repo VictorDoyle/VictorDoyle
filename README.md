@@ -11,7 +11,7 @@ My life's goal is to promote innovation and to create limitless applications tha
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&langs_count=10&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&exclude_repo=React-Django-RateMoviesApp&langs_count=10&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
