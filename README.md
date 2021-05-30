@@ -55,29 +55,17 @@ My life's goal is to promote innovation and to create limitless applications tha
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="vuejs" style="vertical-align:top; margin:4px" width="80" height="160">
 </p>
 
-<h2 align="center"> 🔭 I’m currently working on ... </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=twitter&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=Vue-Ecommerce-Plantshop&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=Swift-MealPlanner&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<h3 align="center"> 💻 Here are some of the latest Repos I've Worked On: </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=coeus-app&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=narrativepage1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=victordoyle&repo=spacegame&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="center"> ⚡ Fun fact: </h3>
-<h4 align="center"> 📚 Currently Reading: </h4>
+<h4 align="center"> 📚 Currently Working On: </h4>
 
 <ul>
-  <li> Garcia Marquez - Cien Años De Soledad </li>
-  <li> Martin Heidegger - Being and Time </li>
-  <li> John Gribbin - In Search of Schrödinger's Cat </li>
+  <li> Building Environments in Unreal Engine 5 Early Access </li>
+  <li> Producing A New Space-22 Music Album </li>
+  <li> Deploying A Movie Application via React Native & React.Js </li>
 </ul>
 
 <h3 align="center"> 👯 I’m looking to collaborate on Everything! </h3>
 
-<p align="center" >I have officially finished the General Assembly Software Engineering Immersive and I'm hungry to code as much as possible and build as many applications, websites, packages, apis as I can! Feel free to contact me or get in touch if you're in need of a coding partner. </p>
+<p align="center" >I am a Full Stack Software Engineer hungry for opportunities and work. You'll find me building Shopify and Wordpress Themes on my spare time as well as building applications in React.Js and React Native. </p>
