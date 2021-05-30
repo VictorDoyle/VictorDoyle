@@ -17,12 +17,15 @@ My life's goal is to promote innovation and to create limitless applications tha
 
 <h3 align="center"> 📋 Tech Stacks & Skills: </h3>
 
-Bases:
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-000000?logo=Apple&style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-000000?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-000000?logo=Github&style=for-the-badge&logoColor=white)
-![Vercel](https://img.shields.io/badge/-vercel-000000?logo=Vercel&style=for-the-badge&logoColor=white)
-![Heroku](https://img.shields.io/badge/-heroku-000000?logo=heroku&style=for-the-badge&logoColor=white)
+<h4 align="center"> 🖥️ Bases: </h3>
+<p align="center">
+<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" alt="raspberrypi" style="vertical-align:top; margin:4px">
+</p>
 
 Languages:
 ![HTML](https://img.shields.io/badge/-Html-444444?logo=Html5&style=for-the-badge&logoColor=white)
