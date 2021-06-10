@@ -37,7 +37,8 @@ My life's goal is to promote innovation and to create limitless applications tha
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" style="vertical-align:top; margin:4px">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/cpp.svg" alt="CPP" style="vertical-align:top; margin:4px" width="60" height="60">  
+<img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/cpp.svg" alt="CPP" style="vertical-align:top; margin:4px" width="60" height="60"> 
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="JAVA" style="vertical-align:top; margin:4px"> 
 <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="jinja" style="vertical-align:top; margin:4px">
 <br>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px">
