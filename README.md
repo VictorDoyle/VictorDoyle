@@ -1,7 +1,7 @@
 
 <h1 align="center"> 👋 Welcome To My Github Profile </h1>
 
-Hi, I'm Victor. I'm a Software Engineer who is passionate about building things. I'm known as a jack of all trades with experience in multiple branches of knowledge: Technology, Politics, Sociology, Economics, Literature, Philosophy and many more!
+Hi, I'm Victor. I'm a Software Engineer who is passionate about building things. I'm known as a jack of all trades with wild ambitions and infinite amounts of high energy. I love building applications and pushing my limits in learning code. I'm currently learning Java, C++ and Go. On my spare time I like learning Unreal Engine 4/5 and Blender.
 
 <h2 align="center"> 😎 About Me </h2>
 
