@@ -3,6 +3,11 @@
 
 Hi, I'm Victor. I'm a Software Engineer who is passionate about building things. I'm known as a jack of all trades with wild ambitions and infinite amounts of high energy. I love building applications and pushing my limits in learning code. I'm currently learning Java, C++ and Go. On my spare time I like learning Unreal Engine 4/5 and Blender.
 
+<h4> See Some of My Projects Here </h4>
+<li> FlixAlways (Movie Website) with React -> https://www.flixalways.com
+<li> My Portfolio Website with React -> https://victordoyle.com/
+<li> Video Game Website Made With Vue -> https://vue-video-game-website.vercel.app/
+<li> AudioInteractive Website With Jquery/Javascript -> https://victordoyle.github.io/NarrativePage1/
 <h2 align="center"> 😎 About Me </h2>
 
 My life's goal is to promote innovation and to create limitless applications that can truly push the boundaries of our modern conventions. I define myself by the work that I set out to do and the infinite amounts of energy that I have towards reaching that goal. My personality and mental character of wanting to constantly reach for the stars and beyond often reflects in my work and is something that will always be part of me.
