@@ -17,7 +17,7 @@ My life's goal is to promote innovation and to create limitless applications tha
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&langs_count=10&theme=dark&layout=compact&exclude_repo=React-Django-RateMoviesApp" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&langs_count=10&theme=dark&layout=compact&exclude_repo=React-Django-RateMoviesApp&hide=html" />
 </a>
 
 
