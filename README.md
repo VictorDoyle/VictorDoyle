@@ -1,7 +1,7 @@
 
 <h1 align="center"> 👋 Welcome To My Github Profile </h1>
 
-Hi, I'm Victor. I'm a Software Engineer who is passionate about building things. I'm known as a jack of all trades with wild ambitions and infinite amounts of high energy. I love building applications and pushing my limits in learning code. I'm currently a Junior Implementation Developer at AudioEye. On my spare time you'll find me learning Java, C++,GO and playing around in Unreal Engine 4/5 and Blender.
+Hi, I'm Victor. I'm a Software Engineer who is passionate about building things. I'm known as a jack of all trades with wild ambitions and infinite amounts of high energy. I love building applications and pushing my limits in learning code. I'm currently a Priority Implementation Developer at AudioEye. On my spare time you'll find me learning C++, playing around in Unreal Engine 4/5, Blender and producing Music with Logic Pro X.
 
 <h4> See Some of My Projects Here </h4>
 <li> FlixAlways (Movie Website) with React -> https://www.flixalways.com
