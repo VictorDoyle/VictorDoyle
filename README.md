@@ -1,81 +1,53 @@
+<h1>👋 Welcome to My GitHub Profile!</h1>
 
-<h1 align="center"> 👋 Welcome To My Github Profile </h1>
+<div>
+    <p><strong>I'm Victor, a Full Stack Software Engineer and jack of all trades.</strong></p>
+    <p>I'm passionate about leveraging technology to create innovative solutions and push the boundaries of what's possible.</p>
+    <p>I'm currently a Senior Software Engineer working in NYC. I learn fast, adapt and enjoy solving problems.</p>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark" />
+    </a>
+</div>
 
-Hi, I'm Victor. I'm a Software Engineer who is passionate about building things. I'm known as a jack of all trades with wild ambitions and infinite amounts of high energy. I love building applications and pushing my limits in learning code. I'm currently a Priority Implementation Developer at AudioEye. On my spare time you'll find me learning C++, playing around in Unreal Engine 4/5, Blender and producing Music with Logic Pro X.
+---
 
-<h4> See Some of My Projects Here </h4>
-<li> FlixAlways (Movie Website) with React -> https://www.flixalways.com
-<li> My Portfolio Website with React -> https://victordoyle.com/
-<li> Video Game Website Made With Vue -> https://vue-video-game-website.vercel.app/
-<li> AudioInteractive Website With Jquery/Javascript -> https://victordoyle.github.io/NarrativePage1/
-<h2 align="center"> 😎 About Me </h2>
+<h2>🌟 On-going Projects</h2>
+<div>
+    <p>Check out some of my on-going projects:</p>
+    <ul>
+        <li><a href="https://alpha-redux.com/" target="_blank">🚀 AlphaRedux </a> - A company I founded with the objective of technological innovation, built with React.</li>
+        <li><a href="https://space22music.com/" target="_blank">🎵 Space-22 Music </a> - A website showcasing my music production, built with React.</li>      
+        <li><a href="https://victordoyle.com/" target="_blank">🌐 My Portfolio</a> - A portfolio of my work, built with React.</li>
+    </ul>
+</div>
 
-My life's goal is to promote innovation and to create limitless applications that can truly push the boundaries of our modern conventions. I define myself by the work that I set out to do and the infinite amounts of energy that I have towards reaching that goal. My personality and mental character of wanting to constantly reach for the stars and beyond often reflects in my work and is something that will always be part of me.
+---
+<h2>👨‍💻 Technologies & Languages:</h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,arduino,atom,blender,cpp,discordjs,express,figma,jest,mongodb,mysql,nextjs,nodejs,ps,postgres,postman,raspberrypi,supabase,swift,unreal,vercel,vue,react,)](https://skillicons.dev)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordoyle&langs_count=10&theme=dark&layout=compact&exclude_repo=React-Django-RateMoviesApp&hide=html" />
-</a>
+I'm always looking to learn more, add more and discover new projects 😎
 
+---
 
-
-
-<h3 align="center"> Tech Stacks & Skills: </h3>
-
-<h4 align="center"> 🖥️ Bases: </h4>
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/apple/apple-icon.svg" alt="apple" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" alt="heroku" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg" alt="raspberrypi" style="vertical-align:top; margin:4px">
-</p>
-
-<h4 align="center"> 👨‍💻 Technologies & Languages: </h4>
-<p align="center">
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html5" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" alt="tailwind" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="javascript" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg" alt="swift" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://github.com/leungwensen/svg-icon/blob/master/dist/svg/logos/cpp.svg" alt="CPP" style="vertical-align:top; margin:4px" width="60" height="60"> 
-<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="JAVA" style="vertical-align:top; margin:4px"> 
-<img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-ar21.svg" alt="jinja" style="vertical-align:top; margin:4px">
-<br>
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vuejs" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="jquery" style="vertical-align:top; margin:4px">
-<br>
-<img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg" alt="atom" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg" alt="postman" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="psql" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" alt="graphql" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="bootstrap" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-ar21.svg" alt="googlebigquery" style="vertical-align:top; margin:4px">
-<img src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21~old.svg" alt="googlebigquery" style="vertical-align:top; margin:4px">
-<br>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/adobe-1.svg" alt="adobeSuite" style="vertical-align:top; margin:4px"  width="80" height="160">
-<img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/blender.svg" alt="blender" style="vertical-align:top; margin:4px" width="80" height="160">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Unreal_Engine_Logo.svg" alt="vuejs" style="vertical-align:top; margin:4px" width="80" height="160">
-</p>
-
-
-
-<h3 align="center"> ⚡ Fun fact: </h3>
-<h4 align="center"> 📚 Currently Working On: </h4>
-
+<h2> 🕺 Fun Fact</h2>
+<p>When I'm not coding, I'm:</p>
 <ul>
-  <li> Building Environments in Unreal Engine 5 Early Access </li>
-  <li> Producing A New Space-22 Music Album </li>
-  <li> Deploying A Movie Application via React Native & React.Js </li>
+    <li> Building video games in Unreal Engine 5 under AlphaRedux</li>
+    <li> Music Production as "Space-22"</li>
+    <li> I'm always coding ;) Building React apps, iOS apps and more! </li>
 </ul>
 
-<h3 align="center"> 👯 I’m looking to collaborate on Everything! </h3>
+---
 
-<p align="center" >I am a Full Stack Software Engineer hungry for opportunities and work. You'll find me building Shopify and Wordpress Themes on my spare time as well as building applications in React.Js and React Native. </p>
+<h2>🤝 Let's Collaborate!</h2>
+<p>I'm always open to building technology no matter the language or stack. Get in touch if you're looking for more developers, always happy to learn.</p>
+
+---
+
+<h2>🔗 Connect with Me</h2>
+<div>
+    <a href="https://www.linkedin.com/in/victor-doyle/" target="_blank">💼 LinkedIn</a> |
+</div>
+
+
