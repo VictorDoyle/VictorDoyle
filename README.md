@@ -21,6 +21,9 @@
     </ul>
 </div>
 
+<h2>👨‍💻 Completed Projects </h2>
+- CodexMaker automates the documentation process for your repositories, generating a beautifully structured static website based on your codebase - https://victordoyle.github.io/codexmaker/
+
 ---
 <h2>👨‍💻 Technologies & Languages:</h2>
 
