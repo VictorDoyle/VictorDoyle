@@ -1,55 +1,58 @@
 <h1>👋 Welcome to My GitHub Profile!</h1>
 
 <div>
-    <p><strong>I'm Victor, a Full Stack Software Engineer and jack of all trades.</strong></p>
-    <p>I'm passionate about leveraging technology to create innovative solutions and push the boundaries of what's possible.</p>
-    <p>I'm currently a Senior Software Engineer working in NYC. I learn fast, adapt and enjoy solving problems.</p>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=victordoyle&show_icons=true&count_private=true&hide=stars&theme=dark" />
-    </a>
+    <p><strong>I'm Victor, a Staff Full Stack Software Engineer based in NYC.</strong></p>
+    <p>I'm passionate about problem solving, building innovative projects and pushing the boundaries of what's possible.</p>
+    I solve problems that sit still too long. Infrastructure, game engines, security tooling, research. If there's something broken, edgy or needing fresh eyes, I'll build it.
 </div>
 
 ---
-
-<h2>🌟 On-going Projects</h2>
-<div>
-    <p>Check out some of my on-going projects:</p>
-    <ul>
-        <li><a href="https://alpha-redux.com/" target="_blank">🚀 AlphaRedux </a> - A company I founded with the objective of technological innovation, built with React.</li>
-        <li><a href="https://space22music.com/" target="_blank">🎵 Space-22 Music </a> - A website showcasing my music production, built with React.</li>      
-        <li><a href="https://victordoyle.com/" target="_blank">🌐 My Portfolio</a> - A portfolio of my work, built with React.</li>
-    </ul>
-</div>
-
-<h2>👨‍💻 Completed Projects </h2>
-- CodexMaker automates the documentation process for your repositories, generating a beautifully structured static website based on your codebase - https://victordoyle.github.io/codexmaker/
-
 ---
-<h2>👨‍💻 Technologies & Languages:</h2>
+ 
+### Current Work
+ 
+**[AlphaRedux](https://alpha-redux.com)** — My company. Production software, UE5 game development, published research, experimental hardware. Six domains, solo.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,html,css,arduino,atom,blender,cpp,discordjs,express,figma,jest,mongodb,mysql,nextjs,nodejs,ps,postgres,postman,raspberrypi,supabase,swift,unreal,vercel,vue,react,)](https://skillicons.dev)
+**[Simulacrum](http://simulacrum.alpha-redux.com/)** — One CLI command. 20 templates. Auth, RBAC, dashboards, i18n, and your choice of Supabase, Drizzle, Prisma, or PostgreSQL. All scaffolded and built in less than a minute.
 
-I'm always looking to learn more, add more and discover new projects 😎
-
+**[The Black Pyramid](https://victordoyle.com/work/the-black-pyramid)** — Psychological horror in Unreal Engine 5. Solo dev. Listed on Steam.
+ 
+**[ChaosPlane](https://victordoyle.com/work/chaosplane)** — Boarding simulator. Segment trees, priority queues, bin-packing algorithms applied to airline overhead bin optimization. Next.js / Zustand.
+ 
+**[CodeReaper](https://alpha-redux.com/projects/codereaper)** — Security scanner that runs automated scans across all your public repos and aggregates vulnerabilities, secrets, and supply chain issues into a single report.
+ 
+**[CodexMaker](https://victordoyle.github.io/codexmaker/)** — Automated documentation generator. Point it at a repo, get a structured static site.
+ 
+**[AI Visualizer](https://victordoyle.com/work/ai-visualizer)** — Scroll-driven animated walkthrough of prompt-to-LLM-response for non-technical audiences. Next.js / Framer Motion.
+ 
 ---
-
-<h2> 🕺 Fun Fact</h2>
-<p>When I'm not coding, I'm:</p>
-<ul>
-    <li> Building video games in Unreal Engine 5 under AlphaRedux</li>
-    <li> Music Production as "Space-22"</li>
-    <li> I'm always coding ;) Building React apps, iOS apps and more! </li>
-</ul>
-
+ 
+### Day Job — Last 6 Months
+ 
+Async job orchestration (parent/child architecture, BullMQ/NestJS, queue isolation). Resolved a 2-year-old memory leak in a Puppeteer/Chromium scanning service — 87% memory reduction, containers from 12 GiB to under 3 GiB. Drove competitive initiative that became the company's primary marketing claim (74% detection advantage). Overhauled observability — 348 monitors down to ~90, 91% log volume reduction. 30s MTTA vs 120s org average. $285K+ ARR protected across enterprise accounts. 509 tickets in 26 weeks.
+ 
 ---
-
-<h2>🤝 Let's Collaborate!</h2>
-<p>I'm always open to building technology no matter the language or stack. Get in touch if you're looking for more developers, always happy to learn.</p>
-
+ 
+### Stack
+ 
+```
+TypeScript · JavaScript · C++ · Swift · Python · Go
+React · Next.js · Vue · NestJS · Express · Unreal Engine 5
+AWS · Docker · PostgreSQL · BullMQ · DataDog · Puppeteer
+```
+ 
 ---
-
-<h2>🔗 Connect with Me</h2>
-<div>
+ 
+### Research
+ 
+- [The Commodification of Ontological Identity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5234597) — NSSR, 2025
+- [Market-Mediated Identity](https://osf.io/preprints/psyarxiv/m3vfb_v1) — NSSR, 2025
+ 
+Background in Comparative Literature (Queen Mary, London) and Politics & Economics (The New School). Earlier: classified 100+ variable star light curves for the SuperWASP program.
+ 
+---
+ 
+**[victordoyle.com](https://victordoyle.com)** · **[alpha-redux.com](https://alpha-redux.com)** · **[linkedin](https://www.linkedin.com/in/victor-doyle/)**
     <a href="https://www.linkedin.com/in/victor-doyle/" target="_blank">💼 LinkedIn</a> |
 </div>
 
